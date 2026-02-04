@@ -1,3 +1,3 @@
-Name: [Your Name]
-Repository: [Link]
-Video Demo: [Link]
+Name: Shruti Bajpayee
+Repository: https://github.com/narayan0910/Carbon-Footprint-Calculator
+Video Demo: https://drive.google.com/file/d/1Vwfpb7ATuKg3aV3nozYz00tB4mGdUjqx/view
