@@ -15,6 +15,9 @@ A scalable, full-stack web application designed to help users track and reduce t
 - **Database**: MongoDB
 - **Tools**: Lucide Icons, Chart.js, Axios
 
+## Demo Video
+Watch the application walkthrough here: [Project Demo Video](https://drive.google.com/file/d/1Vwfpb7ATuKg3aV3nozYz00tB4mGdUjqx/view?usp=sharing)
+
 ## Setup
 1. **Server**:
    ```bash
