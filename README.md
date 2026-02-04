@@ -2,6 +2,8 @@
 
 A scalable, full-stack web application designed to help users track and reduce their carbon emissions through personalized AI recommendations.
 
+![Dashboard Preview](client/public/carbon.jpg)
+
 ## Features
 - **User Authentication**: Secure Login/Register with JWT.
 - **Activity Tracking**: Log Transportation, Energy, and Diet activities.
